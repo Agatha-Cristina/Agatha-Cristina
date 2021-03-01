@@ -3,25 +3,8 @@
 **Eu sou agatha cristina** :brazil:
 
 :mailbox:  agatha.cristina0507@gmail.com
-
-<br>
-
 ![Linkedin Badge](https://img.shields.io/badge/-AgathaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)
-
-
-Eu me chamo Agatha Cristina e moro em Betim. Estou no ensino fundamental e eu complete um curso da Data Science Academy de Big Data Fundamentos 2.0, fiz um curso de robotica na Robots Play comclui com êxito o curso: Módulo-1 -Inicialização a Robótica e Inglês Básico em Outrubo de 2019, com carga horária média de 100 horas. E consegui um CERTIFICADO PROFISSIONAL DA FUNDAÇÃO SCRUM.Estou estudando React, javascript e typescrip! Adoro estudar python. Eu gosto muito de aprender e estudar programação.
-
-Quando eu não estou codando, faço algumas(muitas!) atividades da semed e provas da escola, atualmente estou no 8°ano na escola e tenho 13 anos de idade!
-
-**Contato**
-
-- Email: agatha.cristina0507@gmail.com 
-- Linkendin: https://www.linkedin.com/in/agatha-cristina-araujo-282044192/
-
-
-
-
-
+<br>
 
 <!--
 **Agatha-Cristina/Agatha-Cristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -100,4 +83,14 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agatha-Cristina&hide=TeX&layout=compact&theme=light)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=.)
+
+Eu me chamo Agatha Cristina e moro em Betim. Estou no ensino fundamental e eu complete um curso da Data Science Academy de Big Data Fundamentos 2.0, fiz um curso de robotica na Robots Play comclui com êxito o curso: Módulo-1 -Inicialização a Robótica e Inglês Básico em Outrubo de 2019, com carga horária média de 100 horas. E consegui um CERTIFICADO PROFISSIONAL DA FUNDAÇÃO SCRUM.Estou estudando React, javascript e typescrip! Adoro estudar python. Eu gosto muito de aprender e estudar programação.
+
+Quando eu não estou codando, faço algumas(muitas!) atividades da semed e provas da escola, atualmente estou no 8°ano na escola e tenho 13 anos de idade!
+
+**Contato**
+
+- Email: agatha.cristina0507@gmail.com 
+- Linkendin: https://www.linkedin.com/in/agatha-cristina-araujo-282044192/
+
 
