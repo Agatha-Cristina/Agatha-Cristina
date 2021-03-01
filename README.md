@@ -3,7 +3,12 @@
 **Eu sou agatha cristina** :brazil:
 
 :mailbox:  agatha.cristina0507@gmail.com
+
+<br>
+
 ![Linkedin Badge](https://img.shields.io/badge/-AgathaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)
+
+<div>
 <br>
 
 <!--
