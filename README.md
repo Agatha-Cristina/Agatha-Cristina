@@ -1,6 +1,7 @@
-### Olá <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Olá
 
-![Gatinho dizendo 'Olá'](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+**Eu sou agatha cristina** :brazil:
+
 
 Eu me chamo Agatha Cristina e moro em Betim. Estou no ensino fundamental e eu complete um curso da Data Science Academy de Big Data Fundamentos 2.0, fiz um curso de robotica na Robots Play comclui com êxito o curso: Módulo-1 -Inicialização a Robótica e Inglês Básico em Outrubo de 2019, com carga horária média de 100 horas. E consegui um CERTIFICADO PROFISSIONAL DA FUNDAÇÃO SCRUM.Estou estudando React, javascript e typescrip! Adoro estudar python. Eu gosto muito de aprender e estudar programação.
 
@@ -11,7 +12,7 @@ Quando eu não estou codando, faço algumas(muitas!) atividades da semed e prova
 - Email: agatha.cristina0507@gmail.com 
 - Linkendin: https://www.linkedin.com/in/agatha-cristina-araujo-282044192/
 
-:brazil:
+
 
 :mailbox:  agatha.cristina0507@gmail.com
 
