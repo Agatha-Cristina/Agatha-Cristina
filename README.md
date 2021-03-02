@@ -1,14 +1,11 @@
 ## Olá <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-**Eu sou agatha cristina** :brazil:
+**Eu sou Agatha Cristina** :brazil:
 
 :mailbox:  agatha.cristina0507@gmail.com
 
-<br>
-
 ![Linkedin Badge](https://img.shields.io/badge/-AgathaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)
 
-<div>
 <br>
 
 <!--
@@ -83,7 +80,7 @@ Here are some ideas to get you started:
 <br>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Agatha-Cristina&show_icons=true&theme=light&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Agatha-Cristina&show_icons=true&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agatha-Cristina&hide=TeX&layout=compact&theme=light)
 
