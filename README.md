@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Agatha-Cristina&show_icons=true&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agatha-Cristina&hide=TeX&layout=compact&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agatha-Cristina&hide=TeX&layout=compact&theme=dark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Agatha-Cristina.)
 
