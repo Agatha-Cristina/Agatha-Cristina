@@ -7,7 +7,6 @@
 ![Linkedin Badge](https://img.shields.io/badge/-AgathaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)
 
 <br>
-
 <!--
 **Agatha-Cristina/Agatha-Cristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
