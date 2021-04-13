@@ -1,6 +1,5 @@
-## Olá <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Olá, sou Agatha Cristina! :brazil: <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-**Eu sou Agatha Cristina** :brazil:
 
 :mailbox:  agatha.cristina0507@gmail.com
 
@@ -94,5 +93,3 @@ Quando eu não estou codando, faço algumas(muitas!) atividades da semed e prova
 
 - Email: agatha.cristina0507@gmail.com 
 - Linkendin: https://www.linkedin.com/in/agatha-cristina-araujo-282044192/
-
-
