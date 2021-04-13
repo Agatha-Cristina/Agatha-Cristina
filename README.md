@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <br>
-
-  <a href="https://pt-br.reactjs.org//" target="_blank"><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
   
   <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
@@ -43,10 +41,12 @@ Here are some ideas to get you started:
 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" align="left" alt="git" height='42px'/> </a>
 
+
 </br>
 
 <!--
 ## ⚡ Technologies
+  <a href="https://pt-br.reactjs.org//" target="_blank"><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
