@@ -3,7 +3,7 @@
 
 :mailbox:  agatha.cristina0507@gmail.com
 
-![Linkedin Badge](https://img.shields.io/badge/-AgathaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)
+[![Linkedin Badge](https://img.shields.io/badge/-AgathaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)](https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)
 
 <!--
 **Agatha-Cristina/Agatha-Cristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 -->
 
 
-
-### Languages and Tools:
-
 <br>
 
 
+### Languages and Tools:
   <a href="https://www.python.org" target="_blank"> <img align="left" alt="node" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 
   <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
