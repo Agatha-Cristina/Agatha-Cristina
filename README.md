@@ -3,7 +3,7 @@
 
 :mailbox:  agatha.cristina0507@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-AgathaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)](https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)
+[![Linkedin Badge](https://img.shields.io/badge/-AgathaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)](https://www.linkedin.com/in/agatha-cristina-araujo)
 
 <!--
 **Agatha-Cristina/Agatha-Cristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -94,7 +94,7 @@ Quando eu não estou codando, faço algumas(muitas!) atividades da semed e prova
 **Contato**
 
 - Email: agatha.cristina0507@gmail.com 
-- Linkendin: https://www.linkedin.com/in/agatha-cristina-araujo-282044192/
+- Linkendin: https://www.linkedin.com/in/agatha-cristina-araujo
 
 ### Habilidades
 
