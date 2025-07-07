@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Agatha-Cristina.)
 
-Eu me chamo Agatha Cristina e moro em Betim. Estou no ensino fundamental e eu complete um curso da Data Science Academy de Big Data Fundamentos 2.0, fiz um curso de robotica na Robots Play comclui com êxito o curso: Módulo-1 -Inicialização a Robótica e Inglês Básico em Outrubo de 2019, com carga horária média de 100 horas. E consegui um CERTIFICADO PROFISSIONAL DA FUNDAÇÃO SCRUM.Estou estudando React, javascript e typescrip! Adoro estudar python. Eu gosto muito de aprender e estudar programação.
+Eu me chamo Agatha Cristina e moro em Betim. Estou no ensino fundamental e eu completei um curso da Data Science Academy de Big Data Fundamentos 2.0, fiz um curso de robotica na Robots Play conclui com êxito o curso: Módulo-1 -Inicialização a Robótica e Inglês Básico em Outrubo de 2019, com carga horária média de 100 horas. E consegui um Certificado Profissional da Fundação SCRUM.Estou estudando React, Javascript e Typescrip! Adoro estudar Python. Eu gosto muito de aprender e estudar programação.
 
 Quando eu não estou codando, faço algumas(muitas!) atividades da semed e provas da escola, atualmente estou no 8°ano na escola e tenho 13 anos de idade!
 
