@@ -1,10 +1,12 @@
 ## Olá, sou Agatha Cristina! :brazil: <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-:mailbox:  agatha.cristina0507@gmail.com
+<!-- :mailbox:  agatha.cristina0507@gmail.com -->
 
+<!-- ![Visitor Badge](https://img.shields.io/badge/Agatha-000000?style=for-the-badge&logo=github&logoColor=violet)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Agatha-Cristina.&left_color=purple&right_color=9370db) -->
+<a href='https://www.linkedin.com/in/agatha-cristina-araujo'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 [![Linkedin Badge](https://img.shields.io/badge/-AgathaCristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agatha-cristina-araujo-282044192/)](https://www.linkedin.com/in/agatha-cristina-araujo)
-
 <!--
 **Agatha-Cristina/Agatha-Cristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,8 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<br>
 
 
 ### Languages and Tools:
@@ -92,9 +92,9 @@ Here are some ideas to get you started:
 
 
 
-Eu me chamo Agatha Cristina e moro em Betim. Estou no ensino fundamental e eu completei um curso da Data Science Academy de Big Data Fundamentos 2.0, fiz um curso de robotica na Robots Play conclui com êxito o curso: Módulo-1 -Inicialização a Robótica e Inglês Básico em Outrubo de 2019, com carga horária média de 100 horas. E consegui um Certificado Profissional da Fundação SCRUM.Estou estudando React, Javascript e Typescrip! Adoro estudar Python. Eu gosto muito de aprender e estudar programação.
+Eu me chamo Agatha Cristina e moro em Betim. Estou no ensino médio e eu completei um curso da Data Science Academy de Big Data Fundamentos 2.0, fiz um curso de robotica na Robots Play conclui com êxito o curso: Módulo-1 -Inicialização a Robótica e Inglês Básico em Outrubo de 2019, com carga horária média de 100 horas. E consegui um Certificado Profissional da Fundação SCRUM.Estou estudando React, Javascript e Typescrip! Adoro estudar Python. Eu gosto muito de aprender e estudar programação.
 
-Quando eu não estou codando, faço algumas(muitas!) atividades da semed e provas da escola, atualmente estou no 8°ano na escola e tenho 13 anos de idade!
+Quando eu não estou codando, faço algumas(muitas!) atividades da semed e provas da escola, atualmente estou no 3°ano do ensino médio!
 
 **Contato**
 
