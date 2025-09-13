@@ -86,7 +86,11 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agatha-Cristina&hide=TeX&layout=compact&theme=dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Agatha-Cristina.)
+![Visitor Badge](https://img.shields.io/badge/Agatha-000000?style=for-the-badge&logo=github&logoColor=violet)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Agatha-Cristina.&left_color=purple&right_color=9370db)
+
+
+
 
 Eu me chamo Agatha Cristina e moro em Betim. Estou no ensino fundamental e eu completei um curso da Data Science Academy de Big Data Fundamentos 2.0, fiz um curso de robotica na Robots Play conclui com êxito o curso: Módulo-1 -Inicialização a Robótica e Inglês Básico em Outrubo de 2019, com carga horária média de 100 horas. E consegui um Certificado Profissional da Fundação SCRUM.Estou estudando React, Javascript e Typescrip! Adoro estudar Python. Eu gosto muito de aprender e estudar programação.
 
