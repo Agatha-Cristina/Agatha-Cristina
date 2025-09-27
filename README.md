@@ -41,8 +41,16 @@ Here are some ideas to get you started:
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" align="left" alt="git" height='42px'/> </a>
 
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/c%23/c%23.svg"></a>
 
-</br>
+<a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank"><img align="left" alt="AE AfterEffects" height ="42px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AfterEffects.svg"></a>
+
+<a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img align="left" alt="AI Illustrator" height ="42px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg"></a>
+
+<a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img align="left" alt="PS Photoshop" height ="42px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg"></a>
+
+
+
 
 <!--
 ## ⚡ Technologies
