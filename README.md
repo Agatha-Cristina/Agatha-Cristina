@@ -125,6 +125,6 @@ Quando eu não estou codando, faço algumas(muitas!) atividades da semed e prova
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Agatha-Cristina&theme=midnight-purple&repo=nextlevelweek-02)](https://github.com/Agatha-Cristina/nextlevelweek-02)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Agatha-Cristina&theme=midnight-purple&size_weight=0.5&count_weight=0.5&repo=projeto-site)](https://github.com/Agatha-Cristina/projeto-site)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Agatha-Cristina&theme=midnight-purple&size_weight=0.5&count_weight=0.5&repo=Triagem-Pacientes)]([https://github.com/Agatha-Cristina/Triagem-Pacientes])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Agatha-Cristina&theme=midnight-purple&repo=Triagem-Pacientes)](https://github.com/Agatha-Cristina/Triagem-Pacientes)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Agatha-Cristina&theme=midnight-purple&size_weight=0.5&count_weight=0.5&repo=behind-the-code-2020)](https://github.com/Agatha-Cristina/behind-the-code-2020)-->
